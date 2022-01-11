@@ -1,6 +1,4 @@
--Learning Python
--Pro at Scratch
--Done
+-HTML, cs, py
 -Youtube
 -https://www.youtube.com/channel/UCKO1hzBYf_pJZnMyMw2XoEQ
 
